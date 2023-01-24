@@ -272,6 +272,7 @@ body {
 ![OUTPUT](./op3.png)
 
 ## Result:
+
 This program for designing a simple calculator using JavaScript is executed successfully.
 
 
